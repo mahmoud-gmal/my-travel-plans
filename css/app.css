@@ -47,7 +47,7 @@ transform:rotate(0deg);
 h2 {
     margin: 0;
     transform: rotate(-45deg);
-    transition: transform 2s ease-in-out;
+    transition: transform .8s ease-in-out;
     text-shadow: 0 0 5px #01579b;
 }
 
